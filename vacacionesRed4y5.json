@@ -1,0 +1,26 @@
+[
+{
+    "año": 2021,
+    "mes": 12,
+    "dia": 24,
+    "motivo": "inicio"
+},
+{
+    "año": 2022,
+    "mes": 1,
+    "dia": 17,
+    "motivo": "fin"
+},
+{
+    "año": 2022,
+    "mes": 12,
+    "dia": 24,
+    "motivo": "inicio"
+},
+{
+    "año": 2023,
+    "mes": 1,
+    "dia": 9,
+    "motivo": "fin"
+}
+]
